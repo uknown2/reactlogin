@@ -1,0 +1,27 @@
+.maindiv{
+    display: inline;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    background-color: aqua;
+
+}
+
+.h1tage{
+    margin-top: 5%;
+}
+
+body{
+    background-color: burlywood;
+    text-align: center;
+}
+
+ .form-control{
+    height: 5%;
+    width: 90%;
+    display: inline;
+    text-align: center;
+    border: solid black 2px;
+} 
